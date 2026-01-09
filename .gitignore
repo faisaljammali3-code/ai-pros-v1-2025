@@ -217,3 +217,9 @@ __marimo__/
 
 /.quarto/
 **/*.quarto_ipynb
+
+**/*.gz
+**/*.zip
+**/*.DS_Store
+data/
+flower_data/
